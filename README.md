@@ -1,1 +1,2 @@
-# Patrone.cc-src-skid-me
+# Minecraft
+patrone.cc's minecraft plugins
